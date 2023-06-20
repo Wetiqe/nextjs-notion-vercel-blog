@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Ni',
 
   // open graph metadata (optional)
-  description: 'This is Neil's Blog Page',
+  description: 'Blog Posts of Neil',
 
   // social usernames (optional)
   twitter: 'Jianzha23261569',
