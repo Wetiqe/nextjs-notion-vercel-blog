@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Ni',
 
   // open graph metadata (optional)
-  description: 'This is Neil's Homepage',
+  description: 'This is the homepage of the personal website managed by Neil',
 
   // social usernames (optional)
   twitter: 'Jianzha23261569',
